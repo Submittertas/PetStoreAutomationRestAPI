@@ -1,0 +1,419 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "web_pages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "state-province": {
+          "type": "null"
+        },
+        "name": {
+          "type": "string"
+        },
+        "alpha_two_code": {
+          "type": "string"
+        },
+        "domains": {
+          "type": "array",
+          "items": [
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "web_pages",
+        "state-province",
+        "name",
+        "alpha_two_code",
+        "domains",
+        "country"
+      ]
+    }
+  ]
+}
